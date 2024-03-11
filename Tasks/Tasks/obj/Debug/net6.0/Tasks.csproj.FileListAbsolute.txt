@@ -1,0 +1,14 @@
+D:\Users\User\Downloads\Tasks\Tasks\bin\Debug\net6.0\Tasks.exe
+D:\Users\User\Downloads\Tasks\Tasks\bin\Debug\net6.0\Tasks.deps.json
+D:\Users\User\Downloads\Tasks\Tasks\bin\Debug\net6.0\Tasks.runtimeconfig.json
+D:\Users\User\Downloads\Tasks\Tasks\bin\Debug\net6.0\Tasks.dll
+D:\Users\User\Downloads\Tasks\Tasks\bin\Debug\net6.0\Tasks.pdb
+D:\Users\User\Downloads\Tasks\Tasks\obj\Debug\net6.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Downloads\Tasks\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfoInputs.cache
+D:\Users\User\Downloads\Tasks\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfo.cs
+D:\Users\User\Downloads\Tasks\Tasks\obj\Debug\net6.0\Tasks.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\Tasks\Tasks\obj\Debug\net6.0\Tasks.dll
+D:\Users\User\Downloads\Tasks\Tasks\obj\Debug\net6.0\refint\Tasks.dll
+D:\Users\User\Downloads\Tasks\Tasks\obj\Debug\net6.0\Tasks.pdb
+D:\Users\User\Downloads\Tasks\Tasks\obj\Debug\net6.0\Tasks.genruntimeconfig.cache
+D:\Users\User\Downloads\Tasks\Tasks\obj\Debug\net6.0\ref\Tasks.dll
